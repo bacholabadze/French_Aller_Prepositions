@@ -1,0 +1,3 @@
+Wrong guess: patisserie (Guessed: chez, Correct: À_la)
+Wrong guess: Lugano (Guessed: AU, Correct: À)
+Wrong guess: salle de bains (Guessed: AU, Correct: aux)
