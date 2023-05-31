@@ -1,0 +1,13 @@
+maison
+piscine
+plage
+mer
+poste
+gare
+banque
+montagne
+compagne
+patinoire
+pharmacie
+boulangerie
+patisserie
